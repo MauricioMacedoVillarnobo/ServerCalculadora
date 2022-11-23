@@ -1,1 +1,1 @@
-Oi
+Projeto "Protocolo HTTP" desenvolvido a partir da linguagem Java como requisito para a matéria de "Projeto de Protocolo de Rede" administrada pelo professor Wladimir Novaes no 6º semestre de Ciência da Computação na PUCSP.
